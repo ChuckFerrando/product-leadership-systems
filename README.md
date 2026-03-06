@@ -1,4 +1,4 @@
-# Product Leadership Systems Architecture
+ # Product Leadership Systems Architecture
 
 Documentation portal and architecture index for executive operating systems used to run modern product organizations.
 
@@ -48,6 +48,7 @@ C --> D
 E --> B
 E --> C
 ```
+
 ---
 
 ## System Responsibilities
