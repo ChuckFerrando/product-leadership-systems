@@ -1,6 +1,18 @@
- # Product Leadership Systems Architecture
+# Product Leadership Systems Architecture
 
-Documentation portal and architecture index for executive operating systems used to run modern product organizations.
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+Architecture documentation describing integrated operating systems used to run modern product organizations.
+
+---
+
+## Architecture Overview
+
+The Product Leadership Systems Architecture (PLSA) describes a set of integrated operating systems used to run modern product organizations.
+
+These systems connect strategy execution, portfolio governance, product delivery, and decision intelligence into a unified leadership architecture.
+
+Each repository in this portfolio represents one operating system within the broader architecture.
 
 ---
 
@@ -51,18 +63,7 @@ E --> C
 
 ---
 
-## System Responsibilities
-
-| System | Primary Responsibility |
-|------|------|
-| Strategy Execution System | Translates enterprise strategy into initiatives and investment candidates |
-| Portfolio Governance System | Prioritizes investments, allocates capital, and manages portfolio risk |
-| Product Delivery System | Governs execution of funded initiatives through the product operating model |
-| Decision Intelligence System | Provides analytics and AI-assisted insights supporting executive decisions |
-
----
-
-## System Repositories
+## Architecture Systems
 
 | System | Primary Outputs | Repository |
 |---|---|---|
@@ -73,29 +74,17 @@ E --> C
 
 ---
 
-## How to Use This Portfolio in Executive Conversations
+### How the Systems Work Together
 
-Use this portfolio as a **visual operating model**.
+The architecture connects strategy definition, investment governance, and product delivery through structured operating systems.
 
-Recommended walkthrough:
+Strategy Execution Systems define strategic initiatives and candidate investments.
 
-1. Open the **System Architecture Model** diagram at the top of this README.
-2. Enter the **Portfolio Governance System (Flagship)** repository.
-3. Review the decision artifacts in the order executives consume them:
-   - Portfolio scoring model
-   - Capital allocation model
-   - Risk scoring model
-   - Investment memo template
-   - Decision log
-4. Show how governance connects to delivery:
-   - delivery cadence and review mechanisms
-   - execution risk tracking and dependency management
-5. Reference the **Decision Intelligence System** as an augmentation layer:
-   - scenario modeling
-   - risk signal detection
-   - executive decision preparation
+Portfolio Governance Systems evaluate those investments, allocate capital, and manage portfolio risk.
 
-The intended narrative is: **strategy → governed investment → predictable delivery → measured outcomes**.
+Product Delivery Systems govern the execution of funded initiatives.
+
+Decision Intelligence Systems provide analytics and AI-assisted insights supporting executive decision making.
 
 ---
 
@@ -119,16 +108,4 @@ This portfolio is intentionally **not**:
 
 ## License
 
-MIT License
-
-Copyright (c) 2026 Chuck Ferrando
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this documentation and associated files to use, copy, modify, merge,
-publish, distribute, sublicense, and/or sell copies, subject to the
-following conditions:
-
-The above copyright notice and this permission notice shall be included
-in all copies or substantial portions of the documentation.
-
-THE DOCUMENTATION IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+This repository is released under the MIT License.
