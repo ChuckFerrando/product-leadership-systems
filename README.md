@@ -50,6 +50,17 @@ E --> C
 ```
 ---
 
+## System Responsibilities
+
+| System | Primary Responsibility |
+|------|------|
+| Strategy Execution System | Translates enterprise strategy into initiatives and investment candidates |
+| Portfolio Governance System | Prioritizes investments, allocates capital, and manages portfolio risk |
+| Product Delivery System | Governs execution of funded initiatives through the product operating model |
+| Decision Intelligence System | Provides analytics and AI-assisted insights supporting executive decisions |
+
+---
+
 ## System Repositories
 
 | System | Primary Outputs | Repository |
